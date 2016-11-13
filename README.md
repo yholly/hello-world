@@ -1,2 +1,3 @@
 # hello-world
-learn how to use for javascript programming class in udacity
+learning git to use for javascript programming class in udacity.
+Welcome to the world where you can make all you dreams come true.
